@@ -27,7 +27,7 @@ Le projet utilise deux fichiers principaux :
    
 3. **Intégration** : Placez le fichier quick_git.desktop dans le dossier des services de votre gestionnaire de fichiers (ex: ~/.local/share/file-manager/actions/ ou selon votre configuration Hyprland/Dolphin).
 
-## 💡 Pourquoi ce projet ?
+## 💡 Pourquoi ce projet ?
 
 Développé dans le cadre de mon BTS SIO SLAM, ce projet répond à un besoin de productivité personnelle. Il démontre ma capacité à :
 
