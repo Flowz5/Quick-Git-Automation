@@ -18,10 +18,13 @@ Le projet utilise deux fichiers principaux :
 ## 🚀 Installation
 
 1. **Prérequis** : Assurez-vous d'avoir `git` et `zenity` installés sur votre système.
+
 2. **Script** : Placez `quick_git_hypr.sh` dans un dossier de votre `$PATH` (par exemple `~/.local/bin/`) et rendez-le exécutable :
+
    ```bash
    chmod +x quick_git_hypr.sh
    ```
+   
 3. **Intégration** : Placez le fichier quick_git.desktop dans le dossier des services de votre gestionnaire de fichiers (ex: ~/.local/share/file-manager/actions/ ou selon votre configuration Hyprland/Dolphin).
 
 ## 💡 Pourquoi ce projet ?
@@ -29,7 +32,5 @@ Le projet utilise deux fichiers principaux :
 Développé dans le cadre de mon BTS SIO SLAM, ce projet répond à un besoin de productivité personnelle. Il démontre ma capacité à :
 
 - Automatiser des tâches répétitives en Bash.
-
 - Interagir avec les outils système Linux.
-
 - Améliorer l'expérience utilisateur (UX) via des interfaces graphiques simples
