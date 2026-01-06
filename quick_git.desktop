@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=QuickGitAction;
+X-KDE-Priority=TopLevel
+
+[Desktop Action QuickGitAction]
+Name=Quick Git Push 🚀
+Icon=git
+# %f sera remplacé par le chemin du dossier sur lequel tu cliques
+Exec=bash /home/leo/scripts/quick_git_hypr.sh "%f"
